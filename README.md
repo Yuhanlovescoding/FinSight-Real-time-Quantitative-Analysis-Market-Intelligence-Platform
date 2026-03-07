@@ -7,7 +7,6 @@ This project is a Real-time Quantitative Analysis & Market Intelligence Platform
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
 - [VS Code](https://code.visualstudio.com/)
 
-
 ## Project Structure
 
 - `src/App.tsx`: Main dashboard UI and logic.
