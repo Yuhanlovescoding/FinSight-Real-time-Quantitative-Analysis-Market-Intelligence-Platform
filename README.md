@@ -1,4 +1,4 @@
-# FinSight - Local Setup Guide
+# FinSight
 
 This project is a Real-time Quantitative Analysis & Market Intelligence Platform built with React, Tailwind CSS, and Google's Gemini AI.
 
